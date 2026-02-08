@@ -24,7 +24,6 @@ This repository does **not** accept contributions that:
 - Propose operational implementations
 - Expand the authority of AI or automated systems
 - Weaken public-interest safeguards
-
 ---
 
 ## How to Contribute
